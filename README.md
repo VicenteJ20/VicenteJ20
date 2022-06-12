@@ -1,6 +1,6 @@
 # Hi everyone, I'm Vicente Jorquera!
 
-Computer Science Student, Web developer and currently i'm learning JS and some js framworks by myself.
+Computer Science Student, Web developer and currently i'm learning JS and some js frameworks by myself.
 
 ## Here you can see some of my current skills
 - Python 3 (CLI - GUI with Flask)
