@@ -1,4 +1,4 @@
-### Hi there, I'm Vicente 👋🏽
+## Hi there, I'm Vicente 👋🏽
 
 I'm a 21 years old full stack developer and computer engineer based in Chile, and I'm passionate about crafting digital experiences.
 
@@ -30,6 +30,8 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vicentejor
 
 Also you can find me on my social networks:
 
-**Instagram** => [@jvicente_20](https://www.instagram.com/jvicente_20/)
-**Twitter (X)** => [@jvicente_20](https://www.twitter.com/jvicente_20/)
-**Web personal** => [www.vicentejorquera.dev](https://www.vicentejorquera.dev)
+**Instagram:** [@jvicente_20](https://www.instagram.com/jvicente_20/)
+
+**Twitter (X):** [@jvicente_20](https://www.twitter.com/jvicente_20/)
+
+**Web personal:** [www.vicentejorquera.dev](https://www.vicentejorquera.dev)
