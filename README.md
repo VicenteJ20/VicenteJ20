@@ -1,6 +1,6 @@
 ## Hi there, I'm Vicente 👋🏽
 
-I'm a 21 years old full stack developer and computer engineer based in Chile, and I'm passionate about crafting digital experiences.
+I'm a 22 years old full stack developer and computer engineer based in Chile, and I'm passionate about crafting digital experiences.
 
 - Check out my [website](https://www.vicentejorquera.dev/) to learn more about me and my projects
 - You can contact me by email on my [website](https://www.vicentejorquera.dev/contacto) or you can go to my social networks like LinkedIn, Twitter and Instagram. Also available on my [website](https://www.vicentejorquera.dev/)
